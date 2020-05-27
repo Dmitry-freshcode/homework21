@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "2mp внутренняя abs",
+    "description": "2Мп внутренняя пластик, линза 3,6мм",
+    "img": "./img/2mpIn.jpg",
+    "price": "25$",
+    "count": "6"
+  },
+  {
+    "id": 2,
+    "name": "2mp наружняя черная металл",
+    "description": "2Мп наружняя металл, линза 3,6мм",
+    "img": "./img/2mpInMetall.jpg",
+    "price": "25$",
+    "count": "8"
+  },
+  {
+    "id": 3,
+    "name": "2mp наружняя abs 2.8mm",
+    "description": "2Мп наружняя пластик цвет черный, линза 2,8мм",
+    "img": "./img/2mpOutAbsBk.jpg",
+    "price": "25$",
+    "count": "8"
+  },
+  {
+    "id": 4,
+    "name": "2mp наружняя белая abs",
+    "description": "2Мп наружняя пластик встроеный микрофон цвет белый, линза 3,6мм",
+    "img": "./img/2mpOutAbsWh.jpg",
+    "price": "27$",
+    "count": "7"
+  },
+  {
+    "id": 5,
+    "name": "2mp наружняя металл",
+    "description": "2Мп наружняя металл, линза 3,6мм",
+    "img": "./img/2mpOutBrick.jpg",
+    "price": "27$",
+    "count": "3"
+  },
+  {
+    "id": 6,
+    "name": "NVR 4 канала x 2Мп",
+    "description": "Регистратор 4 канала.",
+    "img": "./img/NVR.jpg",
+    "price": "30$",
+    "count": "5"
+  }
+]
